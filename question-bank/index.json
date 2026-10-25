@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "bankVersion": "1.0.1",
+  "chapters": [
+    {
+      "id": "biology-chapter-1",
+      "subject": "Biology",
+      "chapterNumber": 1,
+      "title": "The Living World",
+      "path": "biology/chapter-1.json",
+      "questionCount": 142,
+      "revision": 3,
+      "published": true,
+      "description": "NCERT Class 11 Biology"
+    }
+  ]
+}
